@@ -2,7 +2,7 @@
 
 ## 介紹
 Simple Twitter是 Alpha Camp 課程的畢業協作專案，採取前後分離的方式，由 2 位前端、2 位後端共同打造，依據指定的設計稿及使用者故事，打造一個簡單版的Twitter。
-Demo網址:https://weihung-1010.github.io/simple-twitter-vue/
+Demo網址:https://yuzih.github.io/Simple-Twitter-Vue/#/login
 ## 功能
 ### 一般使用者:
 - 使用者登入後，可從前台登入頁面進入網站
