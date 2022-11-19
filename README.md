@@ -60,11 +60,11 @@ Demo網址:https://yuzih.github.io/Simple-Twitter-Vue/#/login
   ```
 
 ## 安裝套件：
-vue@2.6.11
-vuex@3.6.2
-vue-router@3.5.1
-axios@0.19.2
-bootstrap@4.4.1
-sweetalert2@9.8.2
-moment@2.24.0
+vue@2.6.11  
+vuex@3.6.2  
+vue-router@3.5.1  
+axios@0.19.2  
+bootstrap@4.4.1  
+sweetalert2@9.8.2  
+moment@2.24.0  
 
