@@ -1,4 +1,4 @@
-# simple-twitter
+# Simple-Twitter
 
 ## 介紹
 Simple Twitter是 Alpha Camp 課程的畢業協作專案，採取前後分離的方式，由 2 位前端、2 位後端共同打造，依據指定的設計稿及使用者故事，打造一個簡單版的Twitter。
@@ -58,3 +58,13 @@ Demo網址:https://yuzih.github.io/Simple-Twitter-Vue/#/login
   ```bash
   ctrl + c
   ```
+
+## 安裝套件：
+vue@2.6.11
+vuex@3.6.2
+vue-router@3.5.1
+axios@0.19.2
+bootstrap@4.4.1
+sweetalert2@9.8.2
+moment@2.24.0
+
